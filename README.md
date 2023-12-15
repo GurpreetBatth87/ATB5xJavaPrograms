@@ -3,4 +3,4 @@
 1. JDK , JVM , JRE
 2. Data Types , Variables
 3. Literals, Keywords 
-4. Identifgit iers, Operators
+4. Identifiers, Operators
