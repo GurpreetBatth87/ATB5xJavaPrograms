@@ -16,6 +16,7 @@ public class lab059 {
 
 //        boolean d = true;
 //        switch ( d){}
+
         long l = 30;
         switch ((int) l){}
 
