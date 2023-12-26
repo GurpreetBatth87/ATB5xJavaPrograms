@@ -9,8 +9,11 @@ public class EX01 {
         double x = sc.nextDouble();
         double y = sc.nextDouble();
         double z = sc.nextDouble();
+       int result = (int) Math.cbrt( x*x+ y*y -Math.abs(z));
 
-        System.out.println("Result -- > "+(Math.cbrt(x*x+y*y-Math.abs(z))));
+        System.out.println(result);
+
+        // System.out.println("Result -- > "+(Math.cbrt( x*x+ y*y -Math.abs(z))));
 
 
 
