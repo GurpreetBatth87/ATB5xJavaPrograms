@@ -1,6 +1,6 @@
-package src.oops_06_JAN_2024;
+package src.oops_06_JAN_2024.basics;
 
-public class lab137 {
+public class lab136 {
     public static void main(String[] args) {
 
 //if something is thread safe , we avod
