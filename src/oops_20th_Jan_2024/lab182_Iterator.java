@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-public class lab182 {
+public class lab182_Iterator {
     public static void main(String[] args) {
         List<String> mylist = new LinkedList();
         mylist.add("Gurpreet");

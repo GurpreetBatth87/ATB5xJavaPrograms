@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class lab180_List {
+public class lab180_List_for_Each_Loop {
     public static void main(String[] args) {
         //List mylist = new List();
         List <String> mylist = new ArrayList<>();
