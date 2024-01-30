@@ -7,12 +7,12 @@ public class EX_Patt_09 {
         int n = 5;
         int c = 5;
         int l=5;
-        for (int i = 1;i <=n;i++){
+        for (int i = n;i >=1;i--){
             for(int k = 1; k <=l-i;k++) {
                 System.out.print(" ");
             }
 
-            for (int j =1; j <=i;j++ ){
+            for (int j =i; j >=1;j-- ){
 
 
                 System.out.print("*");
