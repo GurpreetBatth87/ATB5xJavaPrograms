@@ -1,6 +1,6 @@
 package src.EX01;
 
-public class EX_10 {
+public class EX_Patt_02 {
     public static void main(String[] args) {
 
 
