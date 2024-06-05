@@ -26,7 +26,7 @@ public class Lab128_rev {
 //
 //
 
-        String name = "Gurpreet";// G U R P R E E T
+        String name = "i love programming very much";// G U R P R E E T
         char [] C = name.toCharArray();
         System.out.println(C.length);
 
